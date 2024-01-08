@@ -1,11 +1,11 @@
-div{
+header{
     background-image:url('images/Banner\ Image.png');
 width: 1320px;
 height: 600px;;
 background-color:rgba(65, 63, 63, 0.692);
 background-blend-mode: multiply;
 border-radius: 16px;
-margin: 20px 50px;
+margin:20px 50px;
 color: #FFF;
 text-align: center;
 font-family: Merriweather;
@@ -20,5 +20,13 @@ background-position: center;
 display: flex;
 flex-direction: column;
 background-image: linear-gradient((180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%))
-
+}
+.offer {
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
 }
