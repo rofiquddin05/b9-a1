@@ -1,11 +1,10 @@
 div{
     background-image:url('images/Banner\ Image.png');
-width: 1200px;
-height: 600px;
-background-attachment: fixed;
-background-color:rgba(15, 3, 3, 0.308);
+width: 1320px;
+height: 600px;;
+background-color:rgba(65, 63, 63, 0.692);
 background-blend-mode: multiply;
-border-radius: 20px;
+border-radius: 16px;
 margin: 20px 50px;
 color: #FFF;
 text-align: center;
@@ -17,4 +16,9 @@ line-height: normal;
 align-items: center;
 justify-content: center;
 background-repeat: no-repeat;
+background-position: center;
+display: flex;
+flex-direction: column;
+background-image: linear-gradient((180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%))
+
 }
