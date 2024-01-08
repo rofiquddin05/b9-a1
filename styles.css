@@ -1,9 +1,9 @@
 header{
-    background-image:url('images/Banner\ Image.png');
+background-image:linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url('images/Banner\ Image.png');
 width: 1320px;
 height: 600px;;
-background-color:rgba(65, 63, 63, 0.692);
 background-blend-mode: multiply;
+background-position: center;
 border-radius: 16px;
 margin:20px 50px;
 color: #FFF;
@@ -22,8 +22,8 @@ flex-direction: column;
 background-image: linear-gradient((180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%))
 }
 .offer {
-    color: #F00;
-    text-size-adjust: 383px 107px;
+color: #F00;
+text-size-adjust: 383px 107px;
 text-align: center;
 font-family: Inter;
 font-size: 88px;
@@ -34,8 +34,8 @@ margin: top 120px;
 margin-bottom: 48px ;
 }
 .HOLIDAY{
-    color: #F00;
-    text-size-adjust: 383px 107px;
+color: #F00;
+text-size-adjust: 383px 107px;
 text-align: center;
 font-family: Inter;
 font-size: 24px;
@@ -44,8 +44,8 @@ font-weight: 500;
 line-height: normal;
 }
 .CATEGORIES{
-    color: #070211;
-    text-size-adjust:410px 58px ;
+color: #070211;
+text-size-adjust:410px 58px ;
 text-align: center;
 font-family: Inter;
 font-size: 48px;
@@ -53,14 +53,29 @@ font-style: normal;
 font-weight: 700;
 line-height: normal;
 margin-top: 16px;
+margin-bottom: 48px;
 }
 .new year img{
-    width: 802.9px;
+width: 802.9px;
 height: 500px;
 flex-shrink: 0;
 align-items: center;
 justify-content: center;
+margin-bottom: 120px;
 }
 main div{
-    text-align: center;
+text-align: center;
 }
+.Welcome{
+    background-image:linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('images/Vectorrr.png');
+width: 1320px;
+height: 600px;
+background-blend-mode: multiply;
+background-position: center;
+border-radius: 16px;
+margin:20px 50px;
+display: flex;
+}
+
+
+
