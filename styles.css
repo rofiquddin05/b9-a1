@@ -76,6 +76,55 @@ border-radius: 16px;
 margin:20px 50px;
 display: flex;
 }
+.midnight{
+    color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px;
+letter-spacing: 7.04px;
+width: 642px;
+height: 176px;
+text-align: left;
+margin-left: 126px;
+margin-top: 126px;
+margin-bottom: 24px;
+}
+.dolor{
+color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+width: 697px;
+height: 60px;
+text-align: left;
+margin-left: 126px;
+}
+.victorrr{
+    flex-direction: column;
+} 
+.joinnow{
+    color: #FFF;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+background: none;
+border: none;
+text-align: left;
+margin-left: 158px;
+margin-top: 48px;
+margin-bottom: 14px;
+}
+.digit{
+    padding-top: 30px;
+}
+
 
 
 
