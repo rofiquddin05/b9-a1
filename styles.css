@@ -300,5 +300,42 @@ width: 896px;
 height: 64px;
 margin-left:212px;
 }
+.info{
+    width: 648px;
+height: 72px;
+border-radius: 50px;
+background: #FFF;
+margin-left:336px;
+margin-right:336px;
+margin-top: 48px;
+margin-bottom: 80px;
+position: relative;
+}
+#gmail{
+    width: 648px;
+height: 72px;
+border-radius: 50px;
+background: #FFF;
+border: none;
+}
+#sub{
+    position: absolute;
+width: 210px;
+height: 72px;
+flex-shrink: 0;
+border-radius: 0px 50px 50px 0px;
+background: #F00;
+right: -10px;
+bottom: -1px;
+border: none;
+color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-transform: capitalize;
 
+}
 
