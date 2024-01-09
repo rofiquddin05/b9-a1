@@ -308,7 +308,7 @@ background: #FFF;
 margin-left:336px;
 margin-right:336px;
 margin-top: 48px;
-margin-bottom: 80px;
+margin: bottom 80px;;
 position: relative;
 }
 #gmail{
@@ -336,6 +336,23 @@ font-style: normal;
 font-weight: 600;
 line-height: normal;
 text-transform: capitalize;
-
+}
+#foot{
+    width: 1600px;
+height: 609px;
+flex-shrink: 0;
+background: #070211;
+padding-top: 120px ;
+margin-top: 120px;
+}
+.foot{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px;
+justify-content: space-around;
+display: flex;
 }
 
