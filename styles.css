@@ -183,40 +183,39 @@ margin-top: 48px;
     margin-bottom: 120px;
     align-items: center;
 }
-
-.rectangle3{
+.rectangle3:hover{
+    margin-right:24px ;
+    margin-bottom: 24px;
+    width: 424px;
+    height: 450px;
+    border-radius: 16px;
+}
+.rectangle4:hover{
     margin-right:24px ;
     margin-bottom: 24px;
     width: 424px;
     height: 450px;
 border-radius: 16px;
 }
-.rectangle4{
-    margin-right:24px ;
-    margin-bottom: 24px;
-    width: 424px;
-    height: 450px;
-border-radius: 16px;
-}
-.rectangle5{
+.rectangle5:hover{
     width: 424px;
     height: 450px;
     margin-bottom: 24px;
 border-radius: 16px;
 }
-.rectangle6{
+.rectangle6:hover{
     margin-right:24px ;
     margin-bottom: 24px;
     width: 424px;
     height: 450px;
 border-radius: 16px;}
-.rectangle7{
+.rectangle7:hover{
     margin-right:24px ;
     margin-bottom: 24px;
     width: 424px;
     height: 450px;
 border-radius: 16px;}
-.rectangle8{
+.rectangle8:hover{
     margin-right:24px ;
     margin-bottom: 24px;
     width: 424px;
@@ -424,6 +423,5 @@ background: none;
 margin-bottom: 120px;
 margin-top:50px;
 margin-right: 155px;
-
 }
 
